@@ -468,7 +468,7 @@ EVEN-JUNIOR I 2025-2026
 ```
 
 ## OUTPUT:
-![Output](C:\Users\Marliya Banu\EX 8 CAMU\CamuSchedule\camu\camuapp\output\1.png)
-![Output](C:\Users\Marliya Banu\EX 8 CAMU\CamuSchedule\camu\camuapp\output\2.png)
+![Output](camu/camuapp/output/1.png)
+![Output](camu/camuapp/output/2.png)
 ## RESULT:
 A responsive and visually appealing CAMU Schedule web page using Bootstrap is designed successfully.
